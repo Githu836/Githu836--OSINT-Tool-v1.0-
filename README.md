@@ -1,9 +1,9 @@
 # 🔍 OSINT Tool v1.0 - Advanced Intelligence Suite
 
-https://img.shields.io/badge/Python-3.8+-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg
-https://img.shields.io/badge/Version-1.0-ff69b4.svg
+<img src="https://img.shields.io/badge/Python-3.8+-blue.svg">
+<img src="https://img.shields.io/badge/License-MIT-green.svg">
+<img src=https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg>
+<img src=https://img.shields.io/badge/Version-1.0-ff69b4.svg>
 
 Professional Open Source Intelligence (OSINT) tool for multi-platform username investigation and digital footprint analysis.
 
