@@ -36,7 +36,28 @@ Professional Open Source Intelligence (OSINT) tool for multi-platform username i
 
 
 
-Study For Clone this Repo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study How to Clone this Repo Keep study
 ```
 ## ⚡ Quick Usage
 
