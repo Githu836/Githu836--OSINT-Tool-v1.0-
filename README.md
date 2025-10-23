@@ -22,19 +22,22 @@ Professional Open Source Intelligence (OSINT) tool for multi-platform username i
 # 🚀 Quick Start
 
 ## 📥 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/c00lkidd/osint-tool.git
-cd osint-tool
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the tool
-python osint_tool.py
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+Study For Clone this Repo 
+```
 ## ⚡ Quick Usage
 
 ```bash
